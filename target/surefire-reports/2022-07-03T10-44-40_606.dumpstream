@@ -1,0 +1,4 @@
+# Created at 2022-07-03T10:44:41.206
+Boot Manifest-JAR contains absolute paths in classpath 'D:\GoIT_Java_Online_3\--==JavaDev3_Part_2==--\spring-jwt-realization_test\spring-jwt-realization\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
